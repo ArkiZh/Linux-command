@@ -1,3 +1,5 @@
+`点击在readthedocs里查看 <https://gnu-linux.readthedocs.io/zh/latest/index.html>`_
+
 记录 Linux 的点滴
 ####################################
 
